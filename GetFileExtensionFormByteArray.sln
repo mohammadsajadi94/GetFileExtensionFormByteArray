@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFileExtensionFormByteArray", "GetFileExtensionFormByteArray\GetFileExtensionFormByteArray.csproj", "{4F57A0AE-D015-49F9-94D0-2D2C6449A704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F57A0AE-D015-49F9-94D0-2D2C6449A704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F57A0AE-D015-49F9-94D0-2D2C6449A704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F57A0AE-D015-49F9-94D0-2D2C6449A704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F57A0AE-D015-49F9-94D0-2D2C6449A704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8335237F-93BE-4EAF-BDB5-30BE4E6B09EE}
+	EndGlobalSection
+EndGlobal
